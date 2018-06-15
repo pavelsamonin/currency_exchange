@@ -1,0 +1,9 @@
+node_modules/
+.idea/
+package-lock.json
+currency/
+docker-compose.yml
+docker .env
+docker_dev.env
+Dockerfile
+process.yml
